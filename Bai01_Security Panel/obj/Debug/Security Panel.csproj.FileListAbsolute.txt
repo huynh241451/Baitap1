@@ -1,0 +1,10 @@
+D:\1Student_Doc\N2-HK2\.NET\KtemWinform\AssignmentWinform\Security Panel\bin\Debug\Security Panel.exe.config
+D:\1Student_Doc\N2-HK2\.NET\KtemWinform\AssignmentWinform\Security Panel\bin\Debug\Security Panel.exe
+D:\1Student_Doc\N2-HK2\.NET\KtemWinform\AssignmentWinform\Security Panel\bin\Debug\Security Panel.pdb
+D:\1Student_Doc\N2-HK2\.NET\KtemWinform\AssignmentWinform\Security Panel\obj\Debug\Security Panel.csproj.AssemblyReference.cache
+D:\1Student_Doc\N2-HK2\.NET\KtemWinform\AssignmentWinform\Security Panel\obj\Debug\Security_Panel.Form1.resources
+D:\1Student_Doc\N2-HK2\.NET\KtemWinform\AssignmentWinform\Security Panel\obj\Debug\Security_Panel.Properties.Resources.resources
+D:\1Student_Doc\N2-HK2\.NET\KtemWinform\AssignmentWinform\Security Panel\obj\Debug\Security Panel.csproj.GenerateResource.cache
+D:\1Student_Doc\N2-HK2\.NET\KtemWinform\AssignmentWinform\Security Panel\obj\Debug\Security Panel.csproj.CoreCompileInputs.cache
+D:\1Student_Doc\N2-HK2\.NET\KtemWinform\AssignmentWinform\Security Panel\obj\Debug\Security Panel.exe
+D:\1Student_Doc\N2-HK2\.NET\KtemWinform\AssignmentWinform\Security Panel\obj\Debug\Security Panel.pdb
